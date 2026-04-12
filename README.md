@@ -48,6 +48,15 @@ For the full technical reference on every hook type, see the [Claude Code Hooks 
 
 These recipes are inspired by patterns used in production AI build systems. [Build This Now](https://www.buildthisnow.com) uses hooks to orchestrate 18 specialist AI agents across its SaaS build pipeline.
 
+## Related Repos
+
+| Repo | Description |
+|------|-------------|
+| [Claude Code Guide](https://github.com/ZeiProX76/claude-code-guide) | Full guide to Claude Code: setup, context, memory, planning |
+| [Claude Code Best Practices](https://github.com/ZeiProX76/claude-code-best-practices) | Best practices for context, prompts, agents, and git |
+| [AI Agent Patterns](https://github.com/ZeiProX76/ai-agent-patterns) | Design patterns for multi-agent orchestration |
+| [SaaS Starter Playbook](https://github.com/ZeiProX76/saas-starter-playbook) | Build and launch a SaaS product from scratch |
+
 ## Contributing
 
 Want to add a recipe? See [CONTRIBUTING.md](CONTRIBUTING.md).
